@@ -225,7 +225,6 @@ public class MainActivity extends BaseActivity {
 
     /**
      * Handles the navigation up action.
-     * For the back button
      */
     @Override
     public boolean onSupportNavigateUp() {
