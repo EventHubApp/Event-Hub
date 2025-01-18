@@ -1,0 +1,9 @@
+com.example.slacks_lottoevent
+com.example.slacks_lottoevent.database
+com.example.slacks_lottoevent.databinding
+com.example.slacks_lottoevent.model
+com.example.slacks_lottoevent.Utility
+com.example.slacks_lottoevent.view
+com.example.slacks_lottoevent.view.fragment
+com.example.slacks_lottoevent.viewmodel
+com.example.slacks_lottoevent.viewmodel.adapter
