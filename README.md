@@ -5,9 +5,11 @@ https://www.youtube.com/watch?v=DIWl9pOFmR0
 A mobile app designed to simplify event management by allowing users to both organize and attend events of all types. The app enables organizers to easily set up details such as event name, date, time, location, and description, while also managing RSVPs and participant lists. Attendees can browse upcoming events, join by scanning a QR code, and receive real-time updates or reminders. Whether it’s for small meetups, large conferences, or casual social events, the app streamlines the entire process—making it more convenient for people to connect, engage, and participate.
 
 # User Interface
-![Facility.png](ScreenShots%2FFacility.png)
-![MainPage.png](ScreenShots%2FMainPage.png)
-![Profile.png](ScreenShots%2FProfile.png)
+<div style="display:flex; gap:10px;">
+  <img src="ScreenShots/Facility.png" alt="Facility" width="250"/>
+  <img src="ScreenShots/MainPage.png" alt="Main Page" width="250"/>
+  <img src="ScreenShots/Profile.png" alt="Profile" width="250"/>
+</div>
 
 # Technologies Used
 - Java
